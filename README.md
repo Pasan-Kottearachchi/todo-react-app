@@ -19,8 +19,8 @@ A Todo application built using React, Redux, Redux Saga, and Ant Design. This ap
 Before you begin, ensure you have met the following requirements:
 
 - **Node.js**: You need to have Node.js version `16.20.2` or later installed. You can download it from [nodejs.org](https://nodejs.org/).
-
 - **npm**: npm is installed automatically with Node.js. Make sure you have it available in your terminal.
+- **Git**: You’ll need Git to clone the repository. Download it from [git-scm.com](https://git-scm.com/).
 
 ## Installation
 
@@ -29,11 +29,17 @@ To set up the project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Pasan-Kottearachchi/todo-react-app
-   cd todo-react-app
+   git clone https://github.com/Pasan-Kottearachchi/todo-react-app.git
     ```
    
-2. **Install the dependencies:**
+2.  **Navigate to the Project Directory**:
+
+    ```
+    cd todo-react-app
+    ```
+
+
+3. **Install the dependencies:**
 
    Run the following command in the root directory to install all necessary dependencies:
 
